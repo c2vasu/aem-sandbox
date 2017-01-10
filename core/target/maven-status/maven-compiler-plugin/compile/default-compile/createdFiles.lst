@@ -1,0 +1,6 @@
+com\aem\archetype\core\core\schedulers\SimpleScheduledTask.class
+com\aem\archetype\core\core\listeners\SimpleResourceListener.class
+com\aem\archetype\core\core\models\HelloWorldModel.class
+com\aem\archetype\core\core\package-info.class
+com\aem\archetype\core\core\servlets\SimpleServlet.class
+com\aem\archetype\core\core\filters\LoggingFilter.class
