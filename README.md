@@ -35,12 +35,6 @@ siteName           | AEM site name
 
 * Adobe Experience Manager 6 or higher
 * Apache Maven (3.x should do)
-
-## Building
-
-To build and deploy:
-
-     mvn clean install -PautoInstallPackage
 	
 ## Modules
 
